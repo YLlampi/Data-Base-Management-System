@@ -1,3 +1,0 @@
-/home/yamil/CLionProjects/Data-Base-Management-System/cmake-build-debug/CMakeFiles/Data_Base_Management_System.dir
-/home/yamil/CLionProjects/Data-Base-Management-System/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yamil/CLionProjects/Data-Base-Management-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
